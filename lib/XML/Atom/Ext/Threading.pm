@@ -8,7 +8,7 @@ use XML::Atom::Entry;
 use XML::Atom::Link;
 use XML::Atom::Ext::Threading::InReplyTo;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 #unless ($XML::Atom::VERSION > 0.28) {
 {

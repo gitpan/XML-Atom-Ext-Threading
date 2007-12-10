@@ -17,4 +17,4 @@ no_index:
     - t
 requires: 
   XML::Atom: 0.28
-version: 0.01
+version: 0.02
